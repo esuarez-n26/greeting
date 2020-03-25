@@ -1,0 +1,5 @@
+service_name: greeting
+team: backend
+
+service_language: java
+language_version: 11
